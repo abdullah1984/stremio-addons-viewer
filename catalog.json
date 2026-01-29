@@ -1,0 +1,5284 @@
+{
+  "metas": [
+    {
+      "type": "addon",
+      "id": "stremio-addon-torrentio",
+      "name": "Torrentio",
+      "poster": "https://via.placeholder.com/150x200?text=Torrentio",
+      "description": "Provides torrent streams from scraped torrent providers. Currently supports YTS(+), EZTV(+), RARBG(+), 1337x(+), ThePirateBay(+), KickassTorrents(+), TorrentGalaxy(+), MagnetDL(+), HorribleSubs(+), Ny",
+      "releaseInfo": "v0.0.15",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/torrentio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/torrentio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-comet",
+      "name": "Comet | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=Comet+|+ElfHosted",
+      "description": "Stremio's fastest torrent/debrid search add-on.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/comet"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/comet.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mediafusion-elfhosted",
+      "name": "MediaFusion | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=MediaFusion+|+ElfHosted",
+      "description": "Universal Stremio Add-on for Movies, Series, Live TV &amp; Sports Events. Source: https://github.com/mhdzumair/MediaFusion",
+      "releaseInfo": "v4.3.35",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mediafusion-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mediafusion-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-aiostreams",
+      "name": "AIOStreams | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=AIOStreams+|+ElfHosted",
+      "description": "AIOStreams consolidates multiple Stremio addons and debrid services into a single, easily configurable addon. It allows highly customisable filtering, sorting, and formatting of results and supports p",
+      "releaseInfo": "v2.22.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/aiostreams"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/aiostreams.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-usa-tv",
+      "name": "USA TV",
+      "poster": "https://via.placeholder.com/150x200?text=USA+TV",
+      "description": "USA TV provides access to channels across various categories including local channels, news, sports, entertainment, premium, lifestyle, kids' shows, documentaries, Latino programming, and much more.",
+      "releaseInfo": "v1.5.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/usa-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/usa-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streaming-catalogs",
+      "name": "Streaming Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=Streaming+Catalogs",
+      "description": "Trending movies and series on Netflix, HBO Max, Disney+, Apple TV+ and more. Configure to choose your favourite services.",
+      "releaseInfo": "v1.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streaming-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streaming-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-addons.net",
+      "name": "stremio-addons.net",
+      "poster": "https://via.placeholder.com/150x200?text=stremio-addons.net",
+      "description": "Provides the Community Stremio Addons catalog from stremio-addons.net.",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-addons.net"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-addons.net.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-top-streaming",
+      "name": "Top Streaming",
+      "poster": "https://via.placeholder.com/150x200?text=Top+Streaming",
+      "description": "Top 10 Catalog Lists from the main Streaming Platforms - Available Platforms: 40, Available Countries: 58",
+      "releaseInfo": "v4.4.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/top-streaming"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/top-streaming.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-minha-tv",
+      "name": "Minha TV",
+      "poster": "https://via.placeholder.com/150x200?text=Minha+TV",
+      "description": "O Melhor do IPTV na sua TV",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/minha-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/minha-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-opensubtitles-pro",
+      "name": "opensubtitles PRO",
+      "poster": "https://via.placeholder.com/150x200?text=opensubtitles+PRO",
+      "description": "ad-free and spam-free subtitles addon",
+      "releaseInfo": "v0.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/opensubtitles-pro"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/opensubtitles-pro.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-marvel",
+      "name": "Marvel",
+      "poster": "https://via.placeholder.com/150x200?text=Marvel",
+      "description": "Watch the entire Marvel catalog! MCU and X-Men (chronologically organized), Movies, Series, and Animations!",
+      "releaseInfo": "v1.2.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/marvel"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/marvel.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-thepiratebay+",
+      "name": "ThePirateBay+",
+      "poster": "https://via.placeholder.com/150x200?text=ThePirateBay+",
+      "description": "Search for movies, series and anime from ThePirateBay",
+      "releaseInfo": "v1.4.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/thepiratebay+"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/thepiratebay+.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-torrentsdb",
+      "name": "TorrentsDB",
+      "poster": "https://via.placeholder.com/150x200?text=TorrentsDB",
+      "description": "Provides torrent streams from scraped torrent providers. Currently supports YTS(+), EZTV(+), 1337x(+), TorrentCSV(+), 1lou(+), Nyaa(+), Sk-CzTorrent(+), 1TamilBlasters(+), LimeTorrent(+), 1TamilMV(+),",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/torrentsdb"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/torrentsdb.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-filmwhisper",
+      "name": "FilmWhisper",
+      "poster": "https://via.placeholder.com/150x200?text=FilmWhisper",
+      "description": "Find movies and TV using natural language queries powered by AI. Currently supports OpenAI, Gemini, Claude, DeepSeek and ALL Featherless.ai models.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/filmwhisper"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/filmwhisper.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-brazuca-torrents",
+      "name": "Brazuca Torrents",
+      "poster": "https://via.placeholder.com/150x200?text=Brazuca+Torrents",
+      "description": "Fornece streams de filmes e series dublados de provedores de torrent. Suporta atualmente BluDV(+), DarkMahou(+), EraiRaws(+), Keroseed(+), NyaaSi(+), RedeTorrent(+), TorrentDosFilmes(+), VacaTorrent(+",
+      "releaseInfo": "v0.0.4",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/brazuca-torrents"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/brazuca-torrents.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-autostream",
+      "name": "AutoStream",
+      "poster": "https://via.placeholder.com/150x200?text=AutoStream",
+      "description": "Curated best-pick streams with optional debrid; Nuvio direct-host supported.",
+      "releaseInfo": "v4.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/autostream"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/autostream.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-aiolists",
+      "name": "AIOLists",
+      "poster": "https://via.placeholder.com/150x200?text=AIOLists",
+      "description": "Manage all your lists in one place.",
+      "releaseInfo": "v1.2.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/aiolists"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/aiolists.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-jackettio",
+      "name": "Jackettio",
+      "poster": "https://via.placeholder.com/150x200?text=Jackettio",
+      "description": "Stremio addon that resolve streams using Jackett and Debrid. It seamlessly integrates with private trackers.",
+      "releaseInfo": "v1.7.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/jackettio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/jackettio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ratings",
+      "name": "Ratings",
+      "poster": "https://via.placeholder.com/150x200?text=Ratings",
+      "description": "Display Scores & Age Ratings at the top of your streams in Stremio. Now completely free for everyone — display up to 8 Scores & 3 Age Ratings, Vote Counts, Color Markers, and Overall Rating. Please co",
+      "releaseInfo": "v1.2.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ratings"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ratings.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streamsppv",
+      "name": "StreamsPPV",
+      "poster": "https://via.placeholder.com/150x200?text=StreamsPPV",
+      "description": "Live Sports Streams & Sports TV Channels -- Discord: NonExistent",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streamsppv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streamsppv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streamvix-elfhosted",
+      "name": "StreamViX | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=StreamViX+|+ElfHosted",
+      "description": "StreamViX addon con Vixsrc, Guardaserie, Altadefinizione, AnimeUnity, AnimeSaturn, AnimeWorld, Eurostreaming, TV ed Eventi Live",
+      "releaseInfo": "v9.6.23",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streamvix-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streamvix-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-knightcrawler-elfhosted",
+      "name": "KnightCrawler | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=KnightCrawler+|+ElfHosted",
+      "description": "KnightCrawler Community: torrent streams provided by popular trackers and DMM hashes",
+      "releaseInfo": "v2.0.26",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/knightcrawler-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/knightcrawler-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-peerflix",
+      "name": "Peerflix",
+      "poster": "https://via.placeholder.com/150x200?text=Peerflix",
+      "description": "Peerflix proporciona los mejores enlaces en español e inglés de películas y series de TV en Stremio. Para configurar proveedores de chache, RealDebrid/Premiumize/AllDebrid/DebridLink/Offcloud/Put.io/T",
+      "releaseInfo": "v2.7.4",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/peerflix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/peerflix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subsource-subtitles",
+      "name": "SubSource Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=SubSource+Subtitles",
+      "description": "Unofficial addon for getting subtitles from SubSource.net",
+      "releaseInfo": "v1.3.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subsource-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subsource-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mytrakt-sync-elfhosted",
+      "name": "MyTrakt Sync | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=MyTrakt+Sync+|+ElfHosted",
+      "description": "Access your Trakt.tv watchlists, collections, custom lists, and trending content directly in Stremio. Seamlessly browse your personal movie and TV show catalogs with genre filtering and search capabil",
+      "releaseInfo": "v3.7.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mytrakt-sync-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mytrakt-sync-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ilcorsaroviola",
+      "name": "IlCorsaroViola",
+      "poster": "https://via.placeholder.com/150x200?text=IlCorsaroViola",
+      "description": "Streaming da UIndex, CorsaroNero DB local, Knaben e Jackettio con o senza Real-Debrid, Torbox e Alldebrid.",
+      "releaseInfo": "v7.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ilcorsaroviola"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ilcorsaroviola.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-toast-translator",
+      "name": "Toast Translator",
+      "poster": "https://via.placeholder.com/150x200?text=Toast+Translator",
+      "description": "Translator for catalog addons!",
+      "releaseInfo": "v0.1.8",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/toast-translator"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/toast-translator.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-leviathan",
+      "name": "Leviathan",
+      "poster": "https://via.placeholder.com/150x200?text=Leviathan",
+      "description": "Motore di ricerca parallelo ad alte prestazioni. Include integrazione Web (StreamingCommunity, GuardaHD, GuardaSerie) e Scraper Torrent Multi-Source: Corsaro Nero, Knaben, 1337x, RARBG, TGx, Nyaa, TPB",
+      "releaseInfo": "v2.5.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/leviathan"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/leviathan.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-aiometadata-elfhosted",
+      "name": "AIO Metadata",
+      "poster": "https://via.placeholder.com/150x200?text=AIO+Metadata",
+      "description": "A metadata addon for power users. AIOMetadata uses TMDB, TVDB, TVMaze, MyAnimeList, IMDB and Fanart.tv to provide accurate data for movies, series, and anime. You choose the source.",
+      "releaseInfo": "v1.23.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/aiometadata-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/aiometadata-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-tvvoo",
+      "name": "TvVoo | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=TvVoo+|+ElfHosted",
+      "description": "Stremio addon that lists VAVOO TV channels and resolves clean HLS using the viewer's IP.",
+      "releaseInfo": "v1.5.23",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/tvvoo"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/tvvoo.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streailer-trailer-provider",
+      "name": "Streailer - Trailer Provider",
+      "poster": "https://via.placeholder.com/150x200?text=Streailer+-+Trailer+Provider",
+      "description": "Trailer provider with multi-language support. TMDB → YouTube fallback → TMDB en-US",
+      "releaseInfo": "v1.1.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streailer-trailer-provider"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streailer-trailer-provider.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-more-like-this",
+      "name": "More Like This",
+      "poster": "https://via.placeholder.com/150x200?text=More+Like+This",
+      "description": "Shows recommendations from various sources",
+      "releaseInfo": "v0.11.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/more-like-this"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/more-like-this.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-debrid-search",
+      "name": "Debrid Search",
+      "poster": "https://via.placeholder.com/150x200?text=Debrid+Search",
+      "description": "Stremio Addon to search downloads and torrents in your Debrid cloud",
+      "releaseInfo": "v0.1.11",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/debrid-search"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/debrid-search.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subdl-subtitles",
+      "name": "SubDL Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=SubDL+Subtitles",
+      "description": "Unofficial addon for getting subtitles from SubDL.com",
+      "releaseInfo": "v1.1.6",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subdl-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subdl-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-torbox",
+      "name": "TorBox",
+      "poster": "https://via.placeholder.com/150x200?text=TorBox",
+      "description": "Provides torrent streams for users of TorBox. With zero config, and a free account you can instantly start watching your favorite torrents using TorBox. To add with streaming support, go to your TorBo",
+      "releaseInfo": "v1.1.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/torbox"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/torbox.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-porn-tube",
+      "name": "Porn Tube",
+      "poster": "https://via.placeholder.com/150x200?text=Porn+Tube",
+      "description": "Porn torrents, including VR. Supports Real-Debrid & Easynews",
+      "releaseInfo": "v0.5.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/porn-tube"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/porn-tube.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-orion",
+      "name": "Orion",
+      "poster": "https://via.placeholder.com/150x200?text=Orion",
+      "description": "Orion Stremio Addon, allows Orion-indexed torrent, usenet and hoster links to be played on Stremio. Cached links can be played with RealDebrid, AllDebrid, Debrid-Link, Premiumize or Offcloud. Torrents",
+      "releaseInfo": "v1.5.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/orion"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/orion.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streamasia",
+      "name": "StreamAsia",
+      "poster": "https://via.placeholder.com/150x200?text=StreamAsia",
+      "description": "Watch asian drama, movies and variety shows from various sources",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streamasia"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streamasia.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-anime-kitsu",
+      "name": "Anime Kitsu",
+      "poster": "https://via.placeholder.com/150x200?text=Anime+Kitsu",
+      "description": "Unofficial Kitsu.io anime catalog addon",
+      "releaseInfo": "v0.0.10",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/anime-kitsu"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/anime-kitsu.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ratings-aggregator",
+      "name": "🎯 Ratings Aggregator | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=🎯+Ratings+Aggregator+|+ElfHosted",
+      "description": "Tired of tab-hopping? Get all your essential movie and series ratings in one place! Aggregates scores from IMDb, TMDb, Metacritic (critic & user), Common Sense Media, and CringeMDB (parent-safe tags).",
+      "releaseInfo": "v1.8.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ratings-aggregator"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ratings-aggregator.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cdflix",
+      "name": "CDFlix",
+      "poster": "https://via.placeholder.com/150x200?text=CDFlix",
+      "description": "Addon para Stremio com filmes, séries e animes de alta qualidade, sempre atualizado e totalmente gratuito.",
+      "releaseInfo": "v0.1.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cdflix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cdflix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subhero",
+      "name": "SubHero",
+      "poster": "https://via.placeholder.com/150x200?text=SubHero",
+      "description": "Your all-in-one subtitle addon with language filtering and sources by OpenSubtitles, SubDL & subf2m. Subtitles provided & scraped by Wyzie API.",
+      "releaseInfo": "v1.0.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subhero"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subhero.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-tmdb-collections",
+      "name": "TMDB Collections",
+      "poster": "https://via.placeholder.com/150x200?text=TMDB+Collections",
+      "description": "Addon lets you explore TMDB Collections, which are essentially grouped movie series. Discover collections featuring newly released movies or browse catalogs of popular and top-rated collections. You c",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/tmdb-collections"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/tmdb-collections.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-aiocatalogs",
+      "name": "AIOCatalogs",
+      "poster": "https://via.placeholder.com/150x200?text=AIOCatalogs",
+      "description": "AIOCatalogs is an open-source addon that combines multiple catalog addons into a single one with enhanced performance and a user-friendly configuration interface. It features multi-platform compatibil",
+      "releaseInfo": "v1.5.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/aiocatalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/aiocatalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-skyflix",
+      "name": "SKYFLIX",
+      "poster": "https://via.placeholder.com/150x200?text=SKYFLIX",
+      "description": "Tenha o melhor dos filmes e séries com Skyflix",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/skyflix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/skyflix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-notorrent",
+      "name": "NoTorrent",
+      "poster": "https://via.placeholder.com/150x200?text=NoTorrent",
+      "description": "All TV shows from Netflix, Disney+, Prime Video, Apple TV+, Paramount+, HBO Max, Crunchyroll, and over 24K movies in English & Spanish.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/notorrent"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/notorrent.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-dc-universe",
+      "name": "DC Universe",
+      "poster": "https://via.placeholder.com/150x200?text=DC+Universe",
+      "description": "Explore the DC Universe by release date, movies, series, and animations!",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/dc-universe"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/dc-universe.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-content-deep-dive-companion",
+      "name": "Content Deep Dive Companion",
+      "poster": "https://via.placeholder.com/150x200?text=Content+Deep+Dive+Companion",
+      "description": "A comprehensive companion addon that provides detailed content information, cast details, reviews, and production insights for movies and series.",
+      "releaseInfo": "v4.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/content-deep-dive-companion"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/content-deep-dive-companion.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-malluflix",
+      "name": "MalluFlix",
+      "poster": "https://via.placeholder.com/150x200?text=MalluFlix",
+      "description": "Malayalam movie catalog using TMDB discovery + Cinemeta compatibility",
+      "releaseInfo": "v3.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/malluflix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/malluflix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremify-hayduk",
+      "name": "Stremify | Hayduk",
+      "poster": "https://via.placeholder.com/150x200?text=Stremify+|+Hayduk",
+      "description": "A multi-server streaming addon.",
+      "releaseInfo": "v2.7.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremify-hayduk"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremify-hayduk.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-syncribullet",
+      "name": "syncribullet",
+      "poster": "https://via.placeholder.com/150x200?text=syncribullet",
+      "description": "App that mixes your syncs",
+      "releaseInfo": "v2.0.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/syncribullet"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/syncribullet.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animeworld-catalog",
+      "name": "AnimeWorld Catalog",
+      "poster": "https://via.placeholder.com/150x200?text=AnimeWorld+Catalog",
+      "description": "Catalogo da AnimeWorld con metadati Kitsu",
+      "releaseInfo": "v2.9.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animeworld-catalog"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animeworld-catalog.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ai-search",
+      "name": "AI Search",
+      "poster": "https://via.placeholder.com/150x200?text=AI+Search",
+      "description": "AI-powered movie and series recommendations",
+      "releaseInfo": "v1.0.65",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ai-search"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ai-search.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-gtsubs",
+      "name": "GTSubs",
+      "poster": "https://via.placeholder.com/150x200?text=GTSubs",
+      "description": "Auto-translate subtitles using Google Translate",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/gtsubs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/gtsubs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-thepiratebay-catalog",
+      "name": "ThePirateBay Catalog",
+      "poster": "https://via.placeholder.com/150x200?text=ThePirateBay+Catalog",
+      "description": "Addon providing a catalog and search from The Pirate Bay.",
+      "releaseInfo": "v1.3.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/thepiratebay-catalog"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/thepiratebay-catalog.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-nodebrid",
+      "name": "NoDebrid",
+      "poster": "https://via.placeholder.com/150x200?text=NoDebrid",
+      "description": "لا تورنت. لا ديبريد. فقط شغّل واستمتع. | Direct streaming without debrid - just play and enjoy!",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/nodebrid"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/nodebrid.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-hianime-streams",
+      "name": "HiAnime Streams",
+      "poster": "https://via.placeholder.com/150x200?text=HiAnime+Streams",
+      "description": "Stream your anime from the AniWatch API",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/hianime-streams"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/hianime-streams.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-msubtitles",
+      "name": "MSubtitles",
+      "poster": "https://via.placeholder.com/150x200?text=MSubtitles",
+      "description": "MSubtitles is an add-on that allows you to manage your subtitles or follow the subtitles of other users completely free of charge.",
+      "releaseInfo": "v1.8.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/msubtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/msubtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-arabcity",
+      "name": "ArabCity",
+      "poster": "https://via.placeholder.com/150x200?text=ArabCity",
+      "description": "استمتع بمكتبة ضخمة من الأفلام والمسلسلات العربية",
+      "releaseInfo": "v1.0.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/arabcity"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/arabcity.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-m3uepg-tv-addon",
+      "name": "M3U/EPG TV Addon",
+      "poster": "https://via.placeholder.com/150x200?text=M3U/EPG+TV+Addon",
+      "description": "IPTV addon with M3U, EPG & Xtream (JSON/M3U) + encrypted configs, LRU/Redis cache, cache toggle, EPG offset",
+      "releaseInfo": "v1.2.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/m3uepg-tv-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/m3uepg-tv-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-argentina-tv",
+      "name": "Argentina TV",
+      "poster": "https://via.placeholder.com/150x200?text=Argentina+TV",
+      "description": "Argentina TV provee acceso a canales de interes general, noticias, deportes, entretenimiento, cine, series, estilo de vida, programas infantiles y culturales.",
+      "releaseInfo": "v1.4.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/argentina-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/argentina-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-tmdb-discover+",
+      "name": "TMDB Discover+",
+      "poster": "https://via.placeholder.com/150x200?text=TMDB+Discover+",
+      "description": "Create custom movie and TV catalogs for Stremio with powerful TMDB filters",
+      "releaseInfo": "v2.3.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/tmdb-discover+"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/tmdb-discover+.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-rpdb-catalogs",
+      "name": "RPDB Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=RPDB+Catalogs",
+      "description": "Catalogs to accurately track new / popular / best releases, and add ratings from all popular rating websites to posters. Based on the RatingPosterDB API.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/rpdb-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/rpdb-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-imdb-catalogs",
+      "name": "IMDB Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=IMDB+Catalogs",
+      "description": "IMDB Movie and Series lists. Supports optional settings to use Rating Posters from RPDB.",
+      "releaseInfo": "v0.0.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/imdb-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/imdb-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremthru-torz",
+      "name": "StremThru Torz",
+      "poster": "https://via.placeholder.com/150x200?text=StremThru+Torz",
+      "description": "Stremio Addon to access crowdsourced Torz",
+      "releaseInfo": "v0.96.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremthru-torz"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremthru-torz.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-zmb",
+      "name": "ZMB",
+      "poster": "https://via.placeholder.com/150x200?text=ZMB",
+      "description": "ZMB - Stremio addon for torrent streaming",
+      "releaseInfo": "v0.2.26",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/zmb"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/zmb.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-seedsphere",
+      "name": "SeedSphere (Private)",
+      "poster": "https://via.placeholder.com/150x200?text=SeedSphere+(Private)",
+      "description": "The Last Media Addon You'll Ever Need. Powered by a community swarm.",
+      "releaseInfo": "v2.1.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/seedsphere"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/seedsphere.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mico-leao-dublado",
+      "name": "Mico-Leão Dublado 🇧🇷",
+      "poster": "https://via.placeholder.com/150x200?text=Mico-Leão+Dublado+🇧🇷",
+      "description": "Assista a FILMES dublados em português de GRAÇA! HD e FULLHD!",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mico-leao-dublado"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mico-leao-dublado.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-letterboxd",
+      "name": "Letterboxd",
+      "poster": "https://via.placeholder.com/150x200?text=Letterboxd",
+      "description": "Adds a Letterboxd URL as a catalog.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/letterboxd"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/letterboxd.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-t-stream",
+      "name": "T-Stream",
+      "poster": "https://via.placeholder.com/150x200?text=T-Stream",
+      "description": "Stremio addons for high-quality streaming",
+      "releaseInfo": "v1.1.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/t-stream"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/t-stream.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-submaker-elfhosted",
+      "name": "SubMaker | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=SubMaker+|+ElfHosted",
+      "description": "Configuration Error: Session token not found or expired. Please reconfigure the addon to continue using it.",
+      "releaseInfo": "v1.4.36",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/submaker-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/submaker-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-sootio",
+      "name": "Sootio",
+      "poster": "https://via.placeholder.com/150x200?text=Sootio",
+      "description": "Your ultimate debrid companion. Sootio intelligently searches your debrid services for cached torrents, using a smart, tiered scoring system to prioritize the highest quality streams first.",
+      "releaseInfo": "v1.4.7-4",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/sootio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/sootio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animeo",
+      "name": "animeo",
+      "poster": "https://via.placeholder.com/150x200?text=animeo",
+      "description": "Track your anime progress with anilist while using stremio.",
+      "releaseInfo": "v0.0.4",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animeo"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animeo.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-torrent-catalogs",
+      "name": "Torrent Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=Torrent+Catalogs",
+      "description": "Provides catalogs for movies/series/anime based on top seeded torrents. Requires Kitsu addon for anime.",
+      "releaseInfo": "v1.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/torrent-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/torrent-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-star-wars-universe",
+      "name": "Star Wars Universe",
+      "poster": "https://via.placeholder.com/150x200?text=Star+Wars+Universe",
+      "description": "Explore the Star Wars Universe by sagas, series, eras, and more!",
+      "releaseInfo": "v1.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/star-wars-universe"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/star-wars-universe.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cinetorrent",
+      "name": "CineTorrent",
+      "poster": "https://via.placeholder.com/150x200?text=CineTorrent",
+      "description": "Find Multi Language Torrent Streams for Movies and TV Shows supports (Brazilian Portuguese and English) - (TV Shows Support Comming Soon)",
+      "releaseInfo": "v1.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cinetorrent"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cinetorrent.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-au-iptv-(brisbane)",
+      "name": "AU IPTV (Brisbane)",
+      "poster": "https://via.placeholder.com/150x200?text=AU+IPTV+(Brisbane)",
+      "description": "Australian + NZ live streams with optional international TV, Sports and Additional Packs.",
+      "releaseInfo": "v2.8.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/au-iptv-(brisbane)"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/au-iptv-(brisbane).json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-iptv-by-dexter21767",
+      "name": "Stremio IPTV by dexter21767",
+      "poster": "https://via.placeholder.com/150x200?text=Stremio+IPTV+by+dexter21767",
+      "description": "Addon for International (country specific) TV channels! Huge thanks for iptv.org and u/RootByte!",
+      "releaseInfo": "v0.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-iptv-by-dexter21767"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-iptv-by-dexter21767.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cometfr-torrent",
+      "name": "CometFR | TORRENT",
+      "poster": "https://via.placeholder.com/150x200?text=CometFR+|+TORRENT",
+      "description": "Stremio addon for french contents.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cometfr-torrent"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cometfr-torrent.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-my-cine",
+      "name": "MY CINE",
+      "poster": "https://via.placeholder.com/150x200?text=MY+CINE",
+      "description": "(Torrent + Free Debrid), Tenha o melhor do cinema em sua casa com MY CINE, Torrents via LINK DIRETO para garantir sua privacidade",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/my-cine"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/my-cine.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ytztvio",
+      "name": "Ytztvio",
+      "poster": "https://via.placeholder.com/150x200?text=Ytztvio",
+      "description": "Stremio Wrapper for YTS and EZTV Torrents",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ytztvio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ytztvio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ppvio-elfhosted",
+      "name": "PPVio | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=PPVio+|+ElfHosted",
+      "description": "Play PPV live-streams.",
+      "releaseInfo": "v0.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ppvio-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ppvio-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-plexio",
+      "name": "Plexio",
+      "poster": "https://via.placeholder.com/150x200?text=Plexio",
+      "description": "Play movies and series from plex.tv.",
+      "releaseInfo": "v0.1.15",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/plexio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/plexio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-community-subtitles",
+      "name": "Stremio Community Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=Stremio+Community+Subtitles",
+      "description": "Community-driven subtitle addon for Stremio with user accounts and uploading.",
+      "releaseInfo": "v0.6.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-community-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-community-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-the-sieve-series",
+      "name": "The Sieve - Series",
+      "poster": "https://via.placeholder.com/150x200?text=The+Sieve+-+Series",
+      "description": "Filter TV shows by decade, year, genre, country and more – powered by TMDB.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/the-sieve-series"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/the-sieve-series.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ccloud",
+      "name": "CCloud",
+      "poster": "https://via.placeholder.com/150x200?text=CCloud",
+      "description": "Movies & Series from CCloud & CCloud+ Servers.",
+      "releaseInfo": "v1.2.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ccloud"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ccloud.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subtito",
+      "name": "Subtito",
+      "poster": "https://via.placeholder.com/150x200?text=Subtito",
+      "description": "The content you love, with the subtitles you need. AI translated subtitles in your language.",
+      "releaseInfo": "v1.6.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subtito"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subtito.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-easynews",
+      "name": "Easynews",
+      "poster": "https://via.placeholder.com/150x200?text=Easynews",
+      "description": "The original (still mainteined, developed and going strong) Easynews addon",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/easynews"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/easynews.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-watch-next",
+      "name": "Watch Next",
+      "poster": "https://via.placeholder.com/150x200?text=Watch+Next",
+      "description": "Shows similar movies and series right below what you’re currently watching using TMDb recommendations.",
+      "releaseInfo": "v0.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/watch-next"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/watch-next.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremthru-list",
+      "name": "StremThru List",
+      "poster": "https://via.placeholder.com/150x200?text=StremThru+List",
+      "description": "Stremio Addon for accessing Lists",
+      "releaseInfo": "v0.96.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremthru-list"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremthru-list.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-viva-max",
+      "name": "Viva Max",
+      "poster": "https://via.placeholder.com/150x200?text=Viva+Max",
+      "description": "The VivaMax Stremio Addon lets you explore a wide range of Filipino movies, series, and exclusive content directly from the VivaMax streaming platform. This unofficial addon scrapes publicly available",
+      "releaseInfo": "v6.9.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/viva-max"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/viva-max.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-bharat-binge",
+      "name": "Bharat Binge",
+      "poster": "https://via.placeholder.com/150x200?text=Bharat+Binge",
+      "description": "Discover Indian content - Top 10 charts from Netflix, Prime Video, ZEE5, JioHotstar + Hindi, Tamil, Telugu & more regional catalogs",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/bharat-binge"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/bharat-binge.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-intell-debridsearch",
+      "name": "Intelligent Debrid Search",
+      "poster": "https://via.placeholder.com/150x200?text=Intelligent+Debrid+Search",
+      "description": "A smarter Stremio add-on to search downloads and torrents in your Debrid cloud.",
+      "releaseInfo": "v1.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/intell-debridsearch"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/intell-debridsearch.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-trailer-addon",
+      "name": "YouTube Trailers",
+      "poster": "https://via.placeholder.com/150x200?text=YouTube+Trailers",
+      "description": "Direct links to YouTube trailers - No buffering!",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-trailer-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-trailer-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subhero-v2",
+      "name": "SubHero v2",
+      "poster": "https://via.placeholder.com/150x200?text=SubHero+v2",
+      "description": "Subtitles with language filtering, release matching, caching, file format conversion and more. Powered by Wyzie API.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subhero-v2"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subhero-v2.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-xtremio",
+      "name": "Xtremio",
+      "poster": "https://via.placeholder.com/150x200?text=Xtremio",
+      "description": "Watch movies and series from your Xtream server",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/xtremio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/xtremio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-statusio",
+      "name": "Statusio",
+      "poster": "https://via.placeholder.com/150x200?text=Statusio",
+      "description": "Shows premium status & days remaining across multiple debrid providers.",
+      "releaseInfo": "v1.1.28",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/statusio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/statusio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mal-stremio-addon",
+      "name": "MAL-Stremio Addon",
+      "poster": "https://via.placeholder.com/150x200?text=MAL-Stremio+Addon",
+      "description": "Provides users with watchlist content from MyAnimeList within Stremio. This addon only provides catalogs, with the help of AnimeKitsu",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mal-stremio-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mal-stremio-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cartoon-network",
+      "name": "Cartoon Network",
+      "poster": "https://via.placeholder.com/150x200?text=Cartoon+Network",
+      "description": "The Cartoon Network Stremio Addon lets you stream a wide range of Cartoon Network shows directly within Stremio. It’s a community-made, unofficial addon.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cartoon-network"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cartoon-network.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-yifysubtitles-subtitles-by-dexter21767",
+      "name": "yifysubtitles subtitles by dexter21767",
+      "poster": "https://via.placeholder.com/150x200?text=yifysubtitles+subtitles+by+dexter21767",
+      "description": "Addon for getting subtitles from yifysubtitles, by Dexter21767.",
+      "releaseInfo": "v0.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/yifysubtitles-subtitles-by-dexter21767"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/yifysubtitles-subtitles-by-dexter21767.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-watchly",
+      "name": "Watchly | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=Watchly+|+ElfHosted",
+      "description": "Movie and series recommendations based on your Stremio library.",
+      "releaseInfo": "v1.7.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/watchly"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/watchly.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-the-sieve-movies",
+      "name": "The Sieve",
+      "poster": "https://via.placeholder.com/150x200?text=The+Sieve",
+      "description": "",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/the-sieve-movies"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/the-sieve-movies.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-liked",
+      "name": "Stremio Liked",
+      "poster": "https://via.placeholder.com/150x200?text=Stremio+Liked",
+      "description": "Official Stremio liked movies / series catalogs for your account",
+      "releaseInfo": "v0.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-liked"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-liked.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-easynews+",
+      "name": "Easynews+",
+      "poster": "https://via.placeholder.com/150x200?text=Easynews+",
+      "description": "Provides content from Easynews & includes a search catalog. This addon can also be self-hosted.",
+      "releaseInfo": "v1.3.8",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/easynews+"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/easynews+.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-indiastreams",
+      "name": "IndiaStreams",
+      "poster": "https://via.placeholder.com/150x200?text=IndiaStreams",
+      "description": "Stremio extension for Catalog of Movies & TV shows popular in India, includes Hindi, English and regional titles.",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/indiastreams"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/indiastreams.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-one-pace-addon",
+      "name": "One Pace Addon",
+      "poster": "https://via.placeholder.com/150x200?text=One+Pace+Addon",
+      "description": "OFFICIAL One Pace addon for Stremio (https://onepace.net/). Go to Discover -> Series -> One Pace to watch.",
+      "releaseInfo": "v3.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/one-pace-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/one-pace-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-rotten-tomatoes",
+      "name": "Rotten Tomatoes",
+      "poster": "https://via.placeholder.com/150x200?text=Rotten+Tomatoes",
+      "description": "Certified Fresh Movies to Stream at Home and Best TV Shows.",
+      "releaseInfo": "v1.0.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/rotten-tomatoes"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/rotten-tomatoes.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremthru-store",
+      "name": "StremThru Store",
+      "poster": "https://via.placeholder.com/150x200?text=StremThru+Store",
+      "description": "Explore and Search Store Catalog",
+      "releaseInfo": "v0.96.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremthru-store"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremthru-store.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-strelingo-dual-language-subtitles",
+      "name": "Strelingo - Dual Language Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=Strelingo+-+Dual+Language+Subtitles",
+      "description": "Provides dual subtitles (main + translation) from OpenSubtitles for language learning. <br><a href=\"https://github.com/Serkali-sudo/strelingo-addon\" style=\"color: #1E90FF;\">GitHub</a>",
+      "releaseInfo": "v0.1.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/strelingo-dual-language-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/strelingo-dual-language-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-nickelodeon",
+      "name": "Nickelodeon",
+      "poster": "https://via.placeholder.com/150x200?text=Nickelodeon",
+      "description": "The Nickelodeon Stremio Addon brings your favorite Nickelodeon movies and series right to your screen.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/nickelodeon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/nickelodeon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-anime-catalogs",
+      "name": "Anime Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=Anime+Catalogs",
+      "description": "Stremio catalogs for anime from: MyAnimeList, AniDB, AniList, Kitsu, aniSearch, LiveChart.me, Notify.Moe. Also supports filtering by dubbed and optional setting to use Rating Posters from RPDB.",
+      "releaseInfo": "v1.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/anime-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/anime-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-hentaistream",
+      "name": "HentaiStream",
+      "poster": "https://via.placeholder.com/150x200?text=HentaiStream",
+      "description": "18+ ONLY - Your one stop shop for all your favourite Hentai! The content is fetched from 3 Providers: HentaiMama, HentaiTV and HentaiSea. The addon has aggregated ratings from all sources, catalogs (T",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/hentaistream"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/hentaistream.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-xxxclub",
+      "name": "xxxClub",
+      "poster": "https://via.placeholder.com/150x200?text=xxxClub",
+      "description": "High Quality Adult Content Scraper by github.com/vauth.",
+      "releaseInfo": "v6.6.6",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/xxxclub"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/xxxclub.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-asian-tv",
+      "name": "Asian-TV",
+      "poster": "https://via.placeholder.com/150x200?text=Asian-TV",
+      "description": "Discover Asian TV shows and movies. Catalog-only addon - use with your streaming addons (Torrentio, etc.)",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/asian-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/asian-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subsense",
+      "name": "SubSense",
+      "poster": "https://via.placeholder.com/150x200?text=SubSense",
+      "description": "Subtitle aggregator that fetches subtitles in your selected languages from multiple sources including OpenSubtitles, SubDL, Podnapisi, and more.",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subsense"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subsense.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-zmb-lite",
+      "name": "ZMB Lite",
+      "poster": "https://via.placeholder.com/150x200?text=ZMB+Lite",
+      "description": "ZMB - Stremio addon for torrent streaming",
+      "releaseInfo": "v0.2.26",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/zmb-lite"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/zmb-lite.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streamfusion",
+      "name": "StreamFusion",
+      "poster": "https://via.placeholder.com/150x200?text=StreamFusion",
+      "description": "StreamFusion enhances Stremio by integrating torrent indexers and debrid services, providing access to a vast array of cached torrent sources. This plugin seamlessly bridges Stremio with popular index",
+      "releaseInfo": "v2.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streamfusion"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streamfusion.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-imdb-ratings",
+      "name": "IMDb Ratings",
+      "poster": "https://via.placeholder.com/150x200?text=IMDb+Ratings",
+      "description": "Shows IMDb ratings for movies and individual TV episodes with a completely configurable format. Works with anime.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/imdb-ratings"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/imdb-ratings.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-legendasdivx-pt",
+      "name": "LegendasDivx.pt",
+      "poster": "https://via.placeholder.com/150x200?text=LegendasDivx.pt",
+      "description": "Legendas em português",
+      "releaseInfo": "v0.1.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/legendasdivx-pt"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/legendasdivx-pt.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-easynews++",
+      "name": "Easynews++",
+      "poster": "https://via.placeholder.com/150x200?text=Easynews++",
+      "description": "Easynews++ is an open-source addon that enhances the Easynews experience with superior performance, advanced search capabilities, and intelligent stream selection. It features custom title support, mu",
+      "releaseInfo": "v2.6.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/easynews++"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/easynews++.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-reflux",
+      "name": "Reflux",
+      "poster": "https://via.placeholder.com/150x200?text=Reflux",
+      "description": "Reflux permite você acessar o catálogo de vários sites de streaming, proporcionando uma maneira rápida e fácil de assistir a todo o conteúdo disponível.",
+      "releaseInfo": "v0.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/reflux"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/reflux.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-loved",
+      "name": "Stremio Loved",
+      "poster": "https://via.placeholder.com/150x200?text=Stremio+Loved",
+      "description": "Official Stremio loved movies / series catalogs for your account",
+      "releaseInfo": "v0.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-loved"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-loved.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-pluto-tv",
+      "name": "Pluto TV",
+      "poster": "https://via.placeholder.com/150x200?text=Pluto+TV",
+      "description": "Live Pluto TV channels with catalog and search support",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/pluto-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/pluto-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mubi-catalog",
+      "name": "Mubi Catalog",
+      "poster": "https://via.placeholder.com/150x200?text=Mubi+Catalog",
+      "description": "Mubi Catalogs - Films of the day and Archive - by APP",
+      "releaseInfo": "v1.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mubi-catalog"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mubi-catalog.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-aio-substitle",
+      "name": "AIO Substitle",
+      "poster": "https://via.placeholder.com/150x200?text=AIO+Substitle",
+      "description": "Unofficial addon to get subtitles from Subscene, OpenSubtitles, and Kitsunekko. Uses Microsoft Translator to translate subtitles if they are available from providers. Visit https://aiosubtitle.org to ",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/aio-substitle"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/aio-substitle.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-void-arabic-ai-subtitles",
+      "name": "Void Arabic AI Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=Void+Arabic+AI+Subtitles",
+      "description": "ترجمات عربية احترافية مدعومة بالذكاء الاصطناعي مع مزامنة دقيقة ومتوافقة مع جميع الإصدارات",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/void-arabic-ai-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/void-arabic-ai-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-librario",
+      "name": "Librario",
+      "poster": "https://via.placeholder.com/150x200?text=Librario",
+      "description": "Your Stremio library as customizable catalogs",
+      "releaseInfo": "v0.6.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/librario"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/librario.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-multi-sub:-dual-language-subtitles",
+      "name": "MultiSub - AI Bilingual Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=MultiSub+-+AI+Bilingual+Subtitles",
+      "description": "AI-powered bilingual subtitles for movies and series. Supports dual-language subtitle display with intelligent translation. Configure your preferred language pairs after installation at multisub.org/c",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/multi-sub:-dual-language-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/multi-sub:-dual-language-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-einthusantv",
+      "name": "EinthusanTV",
+      "poster": "https://via.placeholder.com/150x200?text=EinthusanTV",
+      "description": "Addon for Streaming from EinthusanTV by Asaddon",
+      "releaseInfo": "v4.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/einthusantv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/einthusantv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-webshare",
+      "name": "Webshare.cz",
+      "poster": "https://via.placeholder.com/150x200?text=Webshare.cz",
+      "description": "Simple webshare.cz search and streaming.",
+      "releaseInfo": "v0.7.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/webshare"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/webshare.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-community.aymene69.akwam",
+      "name": "Akwam",
+      "poster": "https://via.placeholder.com/150x200?text=Akwam",
+      "description": "Elevate your Stremio experience with seamless access to Akwam links, effortlessly",
+      "releaseInfo": "v1.1.6",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/community.aymene69.akwam"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/community.aymene69.akwam.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-opensubtitles.org-subtitles-by-dexter21767",
+      "name": "opensubtitles.org subtitles by dexter21767",
+      "poster": "https://via.placeholder.com/150x200?text=opensubtitles.org+subtitles+by+dexter21767",
+      "description": "Addon for getting subtitles from opensubtitles.org, by Dexter21767.",
+      "releaseInfo": "v0.1.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/opensubtitles.org-subtitles-by-dexter21767"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/opensubtitles.org-subtitles-by-dexter21767.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremthru-wrap",
+      "name": "StremThru Wrap",
+      "poster": "https://via.placeholder.com/150x200?text=StremThru+Wrap",
+      "description": "Stremio Addon to Wrap other Addons with StremThru",
+      "releaseInfo": "v0.96.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremthru-wrap"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremthru-wrap.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-mdblist",
+      "name": "MDBList",
+      "poster": "https://via.placeholder.com/150x200?text=MDBList",
+      "description": "Addon for MDBList custom lists, optionally supports rating posters from RPDB.",
+      "releaseInfo": "v0.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/mdblist"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/mdblist.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-playlistio-elfhosted",
+      "name": "Playlistio | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=Playlistio+|+ElfHosted",
+      "description": "Convert catalogs into an auto-playable series.",
+      "releaseInfo": "v0.1.8",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/playlistio-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/playlistio-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-auto-subtitle-translate-by-sonsuzanime-(deepl)",
+      "name": "Auto Subtitle Translate by SonsuzAnime (DeepL)",
+      "poster": "https://via.placeholder.com/150x200?text=Auto+Subtitle+Translate+by+SonsuzAnime+(DeepL)",
+      "description": "This addon takes subtitles from OpenSubtitlesV3 then translates into desired language.For donations: https://www.buymeacoffee.com/sonsuzosman Bug report:[email protected]",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/auto-subtitle-translate-by-sonsuzanime-(deepl)"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/auto-subtitle-translate-by-sonsuzanime-(deepl).json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-trakt-sync-and-rating",
+      "name": "Trakt Sync & Rate",
+      "poster": "https://via.placeholder.com/150x200?text=Trakt+Sync+&+Rate",
+      "description": "Sync watched states, rate content, and manage watchlist on Trakt.tv - configure your instance with Upstash Redis for persistent connection",
+      "releaseInfo": "v2.4.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/trakt-sync-and-rating"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/trakt-sync-and-rating.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-music-concerts",
+      "name": "Music Concerts",
+      "poster": "https://via.placeholder.com/150x200?text=Music+Concerts",
+      "description": "Live Music Concerts on IMDB",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/music-concerts"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/music-concerts.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-radios",
+      "name": "Radios",
+      "poster": "https://via.placeholder.com/150x200?text=Radios",
+      "description": "Over 93.000 radio stations from SHOUTcast.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/radios"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/radios.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-monplay-addon",
+      "name": "MonPlay Addon",
+      "poster": "https://via.placeholder.com/150x200?text=MonPlay+Addon",
+      "description": "Addon MonPlay - Giải Trí Miễn Phí",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/monplay-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/monplay-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-webtor",
+      "name": "Webtor.io",
+      "poster": "https://via.placeholder.com/150x200?text=Webtor.io",
+      "description": "Stream your personal torrent library from Webtor directly in Stremio. Add torrents to your Webtor account and watch them instantly — no downloading, no setup, just click and play.",
+      "releaseInfo": "v0.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/webtor"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/webtor.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-tv-generaliste",
+      "name": "📺 TV en Direct",
+      "poster": "https://via.placeholder.com/150x200?text=📺+TV+en+Direct",
+      "description": "Regardez les chaînes TV françaises en direct",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/tv-generaliste"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/tv-generaliste.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-nzbhydra",
+      "name": "NZBHydra 2",
+      "poster": "https://via.placeholder.com/150x200?text=NZBHydra+2",
+      "description": "Provides usenet streams from your NZBHydra 2 instance",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/nzbhydra"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/nzbhydra.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-sitcom-catalogs",
+      "name": "Sitcom Catalogs",
+      "poster": "https://via.placeholder.com/150x200?text=Sitcom+Catalogs",
+      "description": "Browse classic and modern sitcoms",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/sitcom-catalogs"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/sitcom-catalogs.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-tmdb-alternatives",
+      "name": "TMDB Alternatives",
+      "poster": "https://via.placeholder.com/150x200?text=TMDB+Alternatives",
+      "description": "Provides a catalog for a few series (Netflix and similar) in alternative order.",
+      "releaseInfo": "v0.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/tmdb-alternatives"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/tmdb-alternatives.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-trakt-assistido",
+      "name": "HandyCard - Trakt Assistido",
+      "poster": "https://via.placeholder.com/150x200?text=HandyCard+-+Trakt+Assistido",
+      "description": "Exibe handy card lateral com status de assistido do Trakt.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/trakt-assistido"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/trakt-assistido.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-whoniverse",
+      "name": "Whoniverse",
+      "poster": "https://via.placeholder.com/150x200?text=Whoniverse",
+      "description": "The complete Doctor Who universe, including Classic and New Who episodes, specials, minisodes, prequels, and spinoffs in original UK broadcast order.",
+      "releaseInfo": "v1.1.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/whoniverse"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/whoniverse.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animeflv",
+      "name": "AnimeFLV, AnimeAV1 & Henaojara",
+      "poster": "https://via.placeholder.com/150x200?text=AnimeFLV,+AnimeAV1+&+Henaojara",
+      "description": "Add AnimeFLV, AnimeAV1 & Henaojara functionallity to Stremio, including catalogs, streams and metadata, even showing upcoming episodes in the calendar! Not affiliated with AnimeFLV, AnimeAV1 or Henaoj",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animeflv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animeflv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-sagas-and-marathons",
+      "name": "Sagas and Marathons",
+      "poster": "https://via.placeholder.com/150x200?text=Sagas+and+Marathons",
+      "description": "Pack movies into sagas and marathons",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/sagas-and-marathons"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/sagas-and-marathons.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-peario",
+      "name": "Peario",
+      "poster": "https://via.placeholder.com/150x200?text=Peario",
+      "description": "Watch movies with your all your friends in sync !",
+      "releaseInfo": "v0.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/peario"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/peario.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-archive.org",
+      "name": "🎥 Archive.org",
+      "poster": "https://via.placeholder.com/150x200?text=🎥+Archive.org",
+      "description": "Archive.org public domain movies only.",
+      "releaseInfo": "v10.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/archive.org"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/archive.org.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subs.ro-subtitles",
+      "name": "Subs.ro Subtitles",
+      "poster": "https://via.placeholder.com/150x200?text=Subs.ro+Subtitles",
+      "description": "Romanian subtitles from Subs.ro (unofficial)",
+      "releaseInfo": "v1.5.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subs.ro-subtitles"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subs.ro-subtitles.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-simkl-watchlists",
+      "name": "Simkl Watchlists",
+      "poster": "https://via.placeholder.com/150x200?text=Simkl+Watchlists",
+      "description": "Unofficial addon to display your Simkl Watchlists in Stremio, by @nktfh100",
+      "releaseInfo": "v0.2.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/simkl-watchlists"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/simkl-watchlists.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-jimaku-subtitles-v2",
+      "name": "Jimaku Subtitles v2",
+      "poster": "https://via.placeholder.com/150x200?text=Jimaku+Subtitles+v2",
+      "description": "Get Japanese subtitles for anime from Jimaku.cc community database. Works best with Kitsu anime addon for proper anime detection and metadata.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/jimaku-subtitles-v2"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/jimaku-subtitles-v2.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-new-turkcealtyazi.org",
+      "name": "[NEW] TurkceAltyazi.Org",
+      "poster": "https://via.placeholder.com/150x200?text=[NEW]+TurkceAltyazi.Org",
+      "description": "Bu eklenti,TurkceAltyazi.org'dan tüm Türkçe altyazıları alır ve Stremio'nuza getirir.",
+      "releaseInfo": "v1.2.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/new-turkcealtyazi.org"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/new-turkcealtyazi.org.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-podnapisi-subtitles-by-dexter21767",
+      "name": "podnapisi subtitles by dexter21767",
+      "poster": "https://via.placeholder.com/150x200?text=podnapisi+subtitles+by+dexter21767",
+      "description": "Addon for getting subtitles from podnapisi, by Dexter21767.",
+      "releaseInfo": "v0.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/podnapisi-subtitles-by-dexter21767"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/podnapisi-subtitles-by-dexter21767.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-badradio",
+      "name": "badradio",
+      "poster": "https://via.placeholder.com/150x200?text=badradio",
+      "description": "OG Phonk, Memphis, Houston, Trap & Trill | 24/7 radio stream with current track metadata",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/badradio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/badradio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stashdb-easynews",
+      "name": "StashDB - Easynews",
+      "poster": "https://via.placeholder.com/150x200?text=StashDB+-+Easynews",
+      "description": "Stream trending scenes from StashDB via Easynews",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stashdb-easynews"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stashdb-easynews.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-one-pace-complete-series",
+      "name": "One Pace - Complete Series",
+      "poster": "https://via.placeholder.com/150x200?text=One+Pace+-+Complete+Series",
+      "description": "Complete One Pace series with all arcs as seasons. Includes Spanish and English subtitles/dubbing.",
+      "releaseInfo": "v2.3.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/one-pace-complete-series"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/one-pace-complete-series.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-fkstream-torrent",
+      "name": "FKStream | TORRENT",
+      "poster": "https://via.placeholder.com/150x200?text=FKStream+|+TORRENT",
+      "description": "FKStream – Addon non officiel pour accéder au contenu de Fankai",
+      "releaseInfo": "v1.4.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/fkstream-torrent"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/fkstream-torrent.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-zamunda-torrents",
+      "name": "Zamunda Torrents",
+      "poster": "https://via.placeholder.com/150x200?text=Zamunda+Torrents",
+      "description": "Stream movies from zamunda.net. Requires Zamunda account.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/zamunda-torrents"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/zamunda-torrents.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-del-kdrama-seriesmovies",
+      "name": "DEL KDRAMA SERIES/MOVIES",
+      "poster": "https://via.placeholder.com/150x200?text=DEL+KDRAMA+SERIES/MOVIES",
+      "description": "Korean Movies & Series (Infinite Scroll + Sources) by DEL",
+      "releaseInfo": "v0.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/del-kdrama-seriesmovies"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/del-kdrama-seriesmovies.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-premiumize",
+      "name": "Premiumize Library",
+      "poster": "https://via.placeholder.com/150x200?text=Premiumize+Library",
+      "description": "Access your Premiumize cloud library",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/premiumize"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/premiumize.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-traktup-next",
+      "name": "TraktUp Next",
+      "poster": "https://via.placeholder.com/150x200?text=TraktUp+Next",
+      "description": "Continue watching your shows and browse your Trakt lists",
+      "releaseInfo": "v1.5.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/traktup-next"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/traktup-next.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-zelka-and-zamunda-addon",
+      "name": "Zelka & Zamunda Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Zelka+&+Zamunda+Addon",
+      "description": "Stream movies and series from Zelka.org and Zamunda.net trackers",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/zelka-and-zamunda-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/zelka-and-zamunda-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-primer-latino",
+      "name": "Primer Latino",
+      "poster": "https://via.placeholder.com/150x200?text=Primer+Latino",
+      "description": "Películas, Series y Anime en Español Latino • Real-Debrid o Torbox Premium • 2026",
+      "releaseInfo": "v10.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/primer-latino"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/primer-latino.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-launcherio",
+      "name": "LauncherIO",
+      "poster": "https://via.placeholder.com/150x200?text=LauncherIO",
+      "description": "Launch your personal apps and websites directly from Stremio.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/launcherio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/launcherio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ro-sport-live",
+      "name": "RO Sport Live",
+      "poster": "https://via.placeholder.com/150x200?text=RO+Sport+Live",
+      "description": "Popular Romanian Sports Channels.",
+      "releaseInfo": "v4.2.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ro-sport-live"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ro-sport-live.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-movieleaks",
+      "name": "Movie Leaks Catalog",
+      "poster": "https://via.placeholder.com/150x200?text=Movie+Leaks+Catalog",
+      "description": "HD Movies & Series - Latest Releases. Report bugs: https://github.com/Zerr0-C00L/MovieLeaks-Issues/issues",
+      "releaseInfo": "v2.5.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/movieleaks"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/movieleaks.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-moviesindetail:-open-link",
+      "name": "MoviesInDetail: Open Link",
+      "poster": "https://via.placeholder.com/150x200?text=MoviesInDetail:+Open+Link",
+      "description": "Search any movie or series and open MoviesInDetail.com to see detailed info: cast, crew, trailers, trivia and more.",
+      "releaseInfo": "v2.3.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/moviesindetail:-open-link"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/moviesindetail:-open-link.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-shared-debrid-notifier",
+      "name": "Shared Debrid Notifier",
+      "poster": "https://via.placeholder.com/150x200?text=Shared+Debrid+Notifier",
+      "description": "Notify current user if the shared debrid is being used by others",
+      "releaseInfo": "v1.2.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/shared-debrid-notifier"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/shared-debrid-notifier.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-greflix",
+      "name": "GreFlix",
+      "poster": "https://via.placeholder.com/150x200?text=GreFlix",
+      "description": "The definitive collection of Greek TV Series, Movies, and Cinema. From classic hits to modern releases. Watch all your favorite Greek content in one place.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/greflix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/greflix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-hellspy",
+      "name": "Hellspy",
+      "poster": "https://via.placeholder.com/150x200?text=Hellspy",
+      "description": "Hellspy.to addon for Stremio",
+      "releaseInfo": "v0.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/hellspy"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/hellspy.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-streambridge",
+      "name": "StreamBridge: Emby/Jellyfin to Stremio",
+      "poster": "https://via.placeholder.com/150x200?text=StreamBridge:+Emby/Jellyfin+to+Stremio",
+      "description": "Stream media from your Emby or Jellyfin server using IMDb/TMDB/Tvdb/Anidb IDs.",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/streambridge"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/streambridge.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-dizipal",
+      "name": "Dizipal",
+      "poster": "https://via.placeholder.com/150x200?text=Dizipal",
+      "description": "Dizipal'den dizi ve filmleri stremionuza getirir.  Proxy Kullandığımız için eklenti yavaş çalışabilir.",
+      "releaseInfo": "v1.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/dizipal"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/dizipal.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-crunch",
+      "name": "Crunch",
+      "poster": "https://via.placeholder.com/150x200?text=Crunch",
+      "description": "Crunch is a lightweight Stremio addon for discovering and streaming user-uploaded music. It provides search, track metadata, and audio playback through a minimal install flow.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/crunch"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/crunch.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-romanian-tv",
+      "name": "Romanian TV",
+      "poster": "https://via.placeholder.com/150x200?text=Romanian+TV",
+      "description": "Canale TV românești live",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/romanian-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/romanian-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animepahe",
+      "name": "AnimePahe",
+      "poster": "https://via.placeholder.com/150x200?text=AnimePahe",
+      "description": "Source content and catalogs from AnimePahe",
+      "releaseInfo": "v0.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animepahe"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animepahe.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-hilaytv",
+      "name": "Hilay TV - ހިލޭ ޓީވީގެ ހިދްމަތް",
+      "poster": "https://via.placeholder.com/150x200?text=Hilay+TV+-+ހިލޭ+ޓީވީގެ+ހިދްމަތް",
+      "description": "The first Free TV service from Maldives. Watch popular TV channels via Hilay TV platform powered by MaldivesNET.",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/hilaytv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/hilaytv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-docchi.pl-addon",
+      "name": "Docchi.pl Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Docchi.pl+Addon",
+      "description": "Provides users with possibility to watch anime with polish subtitles based on data returned by Docchi.pl",
+      "releaseInfo": "v0.0.6",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/docchi.pl-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/docchi.pl-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-rtve",
+      "name": "RTVE",
+      "poster": "https://via.placeholder.com/150x200?text=RTVE",
+      "description": "Node.js addon to add RTVE (Spanish Television & Radio) functionallity to Stremio, not affiliated with RTVE. GitHub repo: https://github.com/Pigamer37/rtve-stremio-addon",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/rtve"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/rtve.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-douban",
+      "name": "Douban",
+      "poster": "https://via.placeholder.com/150x200?text=Douban",
+      "description": "Douban addon for Stremio",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/douban"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/douban.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-napisy24-addon",
+      "name": "Napisy24 Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Napisy24+Addon",
+      "description": "Addon for getting polish subtitles from Napisy24.pl",
+      "releaseInfo": "v0.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/napisy24-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/napisy24-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-easyanime",
+      "name": "EasyAnime",
+      "poster": "https://via.placeholder.com/150x200?text=EasyAnime",
+      "description": "",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/easyanime"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/easyanime.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-nzb",
+      "name": "NZB",
+      "poster": "https://via.placeholder.com/150x200?text=NZB",
+      "description": "Provides usenet streams from your NZB indexer(s)",
+      "releaseInfo": "v1.1.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/nzb"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/nzb.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-letterboxed",
+      "name": "letterboxed",
+      "poster": "https://via.placeholder.com/150x200?text=letterboxed",
+      "description": "addon for letterboxed watchlists",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/letterboxed"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/letterboxed.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-dragonball-addon",
+      "name": "DragonBall Addon",
+      "poster": "https://via.placeholder.com/150x200?text=DragonBall+Addon",
+      "description": "Todas las series DragonBall",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/dragonball-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/dragonball-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-holiday-movies-and-shows",
+      "name": "🎉 Holiday Movies & Shows",
+      "poster": "https://via.placeholder.com/150x200?text=🎉+Holiday+Movies+&+Shows",
+      "description": "Movies and Series selected by the current holiday.",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/holiday-movies-and-shows"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/holiday-movies-and-shows.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-israel-tv-for-stremio",
+      "name": "israel tv for stremio",
+      "poster": "https://via.placeholder.com/150x200?text=israel+tv+for+stremio",
+      "description": "watch israel tv",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/israel-tv-for-stremio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/israel-tv-for-stremio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremlist",
+      "name": "Stremlist",
+      "poster": "https://via.placeholder.com/150x200?text=Stremlist",
+      "description": "Your IMDb Watchlist in Stremio",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremlist"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremlist.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cinecalidad-stremio-addon",
+      "name": "Películas de Cinecalidad",
+      "poster": "https://via.placeholder.com/150x200?text=Películas+de+Cinecalidad",
+      "description": "Cinecalidad es un sitio público para Películas Full UHD/HD en Latino Dual.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cinecalidad-stremio-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cinecalidad-stremio-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-debrid-status-by-efnikolas",
+      "name": "Debrid Status by EfNikolas",
+      "poster": "https://via.placeholder.com/150x200?text=Debrid+Status+by+EfNikolas",
+      "description": "Check if your debrid services are online. Real-Debrid, AllDebrid, Premiumize, TorBox and more. No login required. ☕ Enjoying this addon? Support me at ko-fi.com/efnikolas",
+      "releaseInfo": "v1.4.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/debrid-status-by-efnikolas"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/debrid-status-by-efnikolas.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-subdivx",
+      "name": "Subtítulos Subdivx",
+      "poster": "https://via.placeholder.com/150x200?text=Subtítulos+Subdivx",
+      "description": "Complemento no oficial para disfrutar los subtítulos de Subdivx.",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/subdivx"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/subdivx.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-iran-provider",
+      "name": "Iran Provider",
+      "poster": "https://via.placeholder.com/150x200?text=Iran+Provider",
+      "description": "stream movies and series from Iranian providers like 30nama or digimovie. Source: https://github.com/MrMohebi/stremio-ir-providers",
+      "releaseInfo": "v2.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/iran-provider"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/iran-provider.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-efnikolas-ip-test",
+      "name": "EfNikolas IP Test",
+      "poster": "https://via.placeholder.com/150x200?text=EfNikolas+IP+Test",
+      "description": "Shows device egress IP with geo/ASN info. Stateless - no storage, no external APIs. If this addon helped you, consider buying me a coffee at ko-fi.com/efnikolas",
+      "releaseInfo": "v2.3.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/efnikolas-ip-test"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/efnikolas-ip-test.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-poltronaplay",
+      "name": "PoltronaPlay",
+      "poster": "https://via.placeholder.com/150x200?text=PoltronaPlay",
+      "description": "O addon definitivo para Stremio. Organiza seus filmes e séries favoritos com a potência do RealDebrid e a simplicidade que você precisa.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/poltronaplay"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/poltronaplay.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-indo",
+      "name": "Indo",
+      "poster": "https://via.placeholder.com/150x200?text=Indo",
+      "description": "Addon for MDBList custom lists, optionally supports rating posters from RPDB.",
+      "releaseInfo": "v0.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/indo"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/indo.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-consumet",
+      "name": "Consumet",
+      "poster": "https://via.placeholder.com/150x200?text=Consumet",
+      "description": "Provides anime and asian movies from the Consumet API",
+      "releaseInfo": "v2.0.3",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/consumet"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/consumet.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-k-dramas-binged",
+      "name": "K-Drama Crush",
+      "poster": "https://via.placeholder.com/150x200?text=K-Drama+Crush",
+      "description": "Catalog of Latest K-Dramas. Stay upto date with Latest Kdramas releases. The only Kdrama add-on you need with comphrensive metadata",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/k-dramas-binged"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/k-dramas-binged.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-watchanimeworld-addon",
+      "name": "Anime World India Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Anime+World+India+Addon",
+      "description": "Watch anime in Hindi, Tamil, Telugu & English from WatchAnimeWorld.in",
+      "releaseInfo": "v0.0.7",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/watchanimeworld-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/watchanimeworld-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-pinoy-movies",
+      "name": "Pinoy Movies",
+      "poster": "https://via.placeholder.com/150x200?text=Pinoy+Movies",
+      "description": "Listahan ng mga Pinoy Movies.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/pinoy-movies"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/pinoy-movies.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-indtorrents",
+      "name": "IndTorrents",
+      "poster": "https://via.placeholder.com/150x200?text=IndTorrents",
+      "description": "Torrent aggregator for South Indian Movies",
+      "releaseInfo": "v1.2.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/indtorrents"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/indtorrents.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-clockrr",
+      "name": "🕒 Clockrr (Top Right)",
+      "poster": "https://via.placeholder.com/150x200?text=🕒+Clockrr+(Top+Right)",
+      "description": "Digital clock overlay via subtitles - flashes current time briefly, then disappears. Perfect for checking time when pausing.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/clockrr"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/clockrr.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animes'-season",
+      "name": "Animes' season",
+      "poster": "https://via.placeholder.com/150x200?text=Animes'+season",
+      "description": "A catalog addon for the latest anime seasons",
+      "releaseInfo": "v1.17.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animes'-season"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animes'-season.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-age-ratings",
+      "name": "Age Ratings",
+      "poster": "https://via.placeholder.com/150x200?text=Age+Ratings",
+      "description": "Addon for displaying the age rating of the movie / series being viewed.",
+      "releaseInfo": "v1.0.9",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/age-ratings"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/age-ratings.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-007-james-bond-collection-(official)",
+      "name": "James Bond 007 Collection (Official)",
+      "poster": "https://via.placeholder.com/150x200?text=James+Bond+007+Collection+(Official)",
+      "description": "Watch all 25 official James Bond franchise films in chronological release order (1962-2021).",
+      "releaseInfo": "v1.5.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/007-james-bond-collection-(official)"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/007-james-bond-collection-(official).json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-webradio",
+      "name": "Webradio",
+      "poster": "https://via.placeholder.com/150x200?text=Webradio",
+      "description": "A Radio scraper for Stremio.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/webradio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/webradio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-canal-ricos-addon",
+      "name": "Canal Ricos Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Canal+Ricos+Addon",
+      "description": "Canal Ricos (Brazil) - Perus, São Paulo, Whatsapp: (11) 99105-1755",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/canal-ricos-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/canal-ricos-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-overseerr-requests",
+      "name": "Overseerr Requests",
+      "poster": "https://via.placeholder.com/150x200?text=Overseerr+Requests",
+      "description": "Request movies and shows through Overseerr - configure your instance",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-overseerr-requests"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-overseerr-requests.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-napflix-siesta-video-platform.-by-dexter21767",
+      "name": "Napflix | Siesta Video Platform. by dexter21767",
+      "poster": "https://via.placeholder.com/150x200?text=Napflix+|+Siesta+Video+Platform.+by+dexter21767",
+      "description": "We all know the feeling of insomnia. Your body wants to sleep but your mind is still awake and active. So how can we steady up our mind. Napflix is a parody video platform where you can find the most ",
+      "releaseInfo": "v0.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/napflix-siesta-video-platform.-by-dexter21767"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/napflix-siesta-video-platform.-by-dexter21767.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-kids-(gpg-tv-ytv-g)",
+      "name": "Kids (G/PG, TV-Y/TV-G)",
+      "poster": "https://via.placeholder.com/150x200?text=Kids+(G/PG,+TV-Y/TV-G)",
+      "description": "Kids-only catalogs for Movies & Series (strict filters). Uses tmdb:* ids so stream add-ons attach.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/kids-(gpg-tv-ytv-g)"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/kids-(gpg-tv-ytv-g).json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cine-espanol",
+      "name": "Cine Español",
+      "poster": "https://via.placeholder.com/150x200?text=Cine+Español",
+      "description": "Catálogo de cine producido en España, organizado por décadas, años, géneros y categorías especiales. Películas españolas exclusivamente. Donaciones ☕️ https://ko-fi.com/thankyousomuch75",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cine-espanol"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cine-espanol.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-animecix",
+      "name": "AnimeciX",
+      "poster": "https://via.placeholder.com/150x200?text=AnimeciX",
+      "description": "AnimeciX'ten türkçe altyazılı animeleri stremionuza getirir.",
+      "releaseInfo": "v1.2.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/animecix"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/animecix.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-filmweb.pl-watchlist-addon",
+      "name": "Filmweb.pl Watchlist Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Filmweb.pl+Watchlist+Addon",
+      "description": "Displays your Filmweb.pl \"To Watch\" list as a catalog in Stremio. Shows movies and TV series from your personal watchlist.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/filmweb.pl-watchlist-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/filmweb.pl-watchlist-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-autoembed-strem",
+      "name": "Autoembed Strem",
+      "poster": "https://via.placeholder.com/150x200?text=Autoembed+Strem",
+      "description": "Streams movies and TV shows from Autoembed API in an external Autoembed player. Only tested on Android.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/autoembed-strem"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/autoembed-strem.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cometnet-elfhosted",
+      "name": "CometNet | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=CometNet+|+ElfHosted",
+      "description": "Stremio's fastest torrent/debrid search add-on.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cometnet-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cometnet-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-vidfast-pro",
+      "name": "VidFast Pro",
+      "poster": "https://via.placeholder.com/150x200?text=VidFast+Pro",
+      "description": "Stream movies and TV shows from vidfast.pro",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/vidfast-pro"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/vidfast-pro.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-digimoviez",
+      "name": "DigiMoviez",
+      "poster": "https://via.placeholder.com/150x200?text=DigiMoviez",
+      "description": "دسترسی به آرشیو فیلم و سریال دیجی‌موویز. برای اتصال حساب اشتراکی خود، دکمه پیکربندی را انتخاب کنید.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/digimoviez"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/digimoviez.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-buta-no-subs-stremio-addon",
+      "name": "Buta No Subs Stremio Addon",
+      "poster": "https://via.placeholder.com/150x200?text=Buta+No+Subs+Stremio+Addon",
+      "description": "Node.js addon to add japanese subtitles to Stremio. GitHub repo: https://github.com/Pigamer37/buta-no-subs-stremio-addon",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/buta-no-subs-stremio-addon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/buta-no-subs-stremio-addon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-frenchio-elfhosted",
+      "name": "Frenchio | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=Frenchio+|+ElfHosted",
+      "description": "Addon non configuré : allez sur /configure pour générer votre lien d'installation.",
+      "releaseInfo": "v1.3.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/frenchio-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/frenchio-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-christmas-sitcom-marathon",
+      "name": "Christmas Sitcom Marathon",
+      "poster": "https://via.placeholder.com/150x200?text=Christmas+Sitcom+Marathon",
+      "description": "Catalogo di tutte le serie con le puntate di Natale che hai selezionato.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/christmas-sitcom-marathon"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/christmas-sitcom-marathon.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-homocentric",
+      "name": "Homocentric",
+      "poster": "https://via.placeholder.com/150x200?text=Homocentric",
+      "description": "Explore curated queer cinema and series, powered by TMDB. Filter by genre to find your next favorite.",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/homocentric"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/homocentric.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-greek-tv",
+      "name": "Greek TV",
+      "poster": "https://via.placeholder.com/150x200?text=Greek+TV",
+      "description": "Greek TV Stremio Add-on",
+      "releaseInfo": "v2.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/greek-tv"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/greek-tv.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-itsout-elfhosted",
+      "name": "📫 ItsOut! | ElfHosted",
+      "poster": "https://via.placeholder.com/150x200?text=📫+ItsOut!+|+ElfHosted",
+      "description": "Adds virtual streams so you can subscribe to digital release alerts.",
+      "releaseInfo": "v1.1.14",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/itsout-elfhosted"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/itsout-elfhosted.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-myshows-lists",
+      "name": "MyShows Lists",
+      "poster": "https://via.placeholder.com/150x200?text=MyShows+Lists",
+      "description": "Stremio addon that integrates MyShows.me user profile lists as Stremio catalogs.",
+      "releaseInfo": "v1.1.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/myshows-lists"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/myshows-lists.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-heb-subs-premium",
+      "name": "Heb Subs Premium",
+      "poster": "https://via.placeholder.com/150x200?text=Heb+Subs+Premium",
+      "description": "Enjoy Hebrew subtitles from all the top notch websites in one convenient location.",
+      "releaseInfo": "v1.7.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/heb-subs-premium"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/heb-subs-premium.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-georgia-tv:-live-channels",
+      "name": "Georgia TV: Live Channels",
+      "poster": "https://via.placeholder.com/150x200?text=Georgia+TV:+Live+Channels",
+      "description": "ქართული სატელევიზიო არხები პირდაპირ Stremio-ში: Formula TV, TV Pirveli, Kavkasia TV, Euronews Georgia, 1TV, Silk Universal.",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/georgia-tv:-live-channels"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/georgia-tv:-live-channels.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-maine-news",
+      "name": "Maine News",
+      "poster": "https://via.placeholder.com/150x200?text=Maine+News",
+      "description": "Stremio Add-On to Watch Maine Local News Stations",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/maine-news"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/maine-news.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-heartio",
+      "name": "Heartio",
+      "poster": "https://via.placeholder.com/150x200?text=Heartio",
+      "description": "Stream your favorite iHeartRadio stations directly in Stremio.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/heartio"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/heartio.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-berserk",
+      "name": "Berserk",
+      "poster": "https://via.placeholder.com/150x200?text=Berserk",
+      "description": "A catalog of all multimedia content related to the anime/manga series Berserk.",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/berserk"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/berserk.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-zufalls-entdecker-(tmdb)",
+      "name": "🎲 Zufalls-Entdecker (TMDB)",
+      "poster": "https://via.placeholder.com/150x200?text=🎲+Zufalls-Entdecker+(TMDB)",
+      "description": "Entdecke zufällige beliebte Filme aus TMDB - Konfiguration erforderlich",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/zufalls-entdecker-(tmdb)"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/zufalls-entdecker-(tmdb).json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-dubbing-indonesia",
+      "name": "Dubbing Indonesia",
+      "poster": "https://via.placeholder.com/150x200?text=Dubbing+Indonesia",
+      "description": "Kumpulan film, tv seri dan anime menggunakan dubbing bahasa indonesia",
+      "releaseInfo": "v0.0.5",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/dubbing-indonesia"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/dubbing-indonesia.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-stremio-serializd",
+      "name": "stremio-serializd",
+      "poster": "https://via.placeholder.com/150x200?text=stremio-serializd",
+      "description": "Provides a Serializd watchlist as a catalog",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/stremio-serializd"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/stremio-serializd.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-torrentfreaks-top-10-by-krazykayaker",
+      "name": "TorrentFreaks Top-10 by KrazyKayaker",
+      "poster": "https://via.placeholder.com/150x200?text=TorrentFreaks+Top-10+by+KrazyKayaker",
+      "description": "The current and historic top 10 movies chosen by TorrentFreak.com.  Visit https://stremio-torrentfreak.krazykayaker.com/ for details.",
+      "releaseInfo": "v1.0.2",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/torrentfreaks-top-10-by-krazykayaker"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/torrentfreaks-top-10-by-krazykayaker.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-cricket-streams",
+      "name": "Cricket Streams",
+      "poster": "https://via.placeholder.com/150x200?text=Cricket+Streams",
+      "description": "Watch live cricket streams with Acestream support",
+      "releaseInfo": "v1.0.4",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/cricket-streams"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/cricket-streams.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-ftv-channels",
+      "name": "FTV Channels",
+      "poster": "https://via.placeholder.com/150x200?text=FTV+Channels",
+      "description": "Live streams of various ftv channels in various qualities.",
+      "releaseInfo": "v0.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/ftv-channels"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/ftv-channels.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-indian-fm-radio-hd",
+      "name": "Indian FM Radio HD",
+      "poster": "https://via.placeholder.com/150x200?text=Indian+FM+Radio+HD",
+      "description": "Indian FM Radio Stations HD Streams. Stream FM in various languages -  Hindi, Tamil, Telugu, Malayalam, Bengali, Odia. All are free streams available on the internet. No copyright infringement intende",
+      "releaseInfo": "v1.0.1",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/indian-fm-radio-hd"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/indian-fm-radio-hd.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-kinopub",
+      "name": "KinoPub",
+      "poster": "https://via.placeholder.com/150x200?text=KinoPub",
+      "description": "",
+      "releaseInfo": "v1.5.8",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/kinopub"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/kinopub.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-err2025",
+      "name": "ERR Filmiaasta 2025",
+      "poster": "https://via.placeholder.com/150x200?text=ERR+Filmiaasta+2025",
+      "description": "ERR Kultuur Filmiaasta 2025 critics list",
+      "releaseInfo": "v1.0.0",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/err2025"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/err2025.json"
+        }
+      ]
+    },
+    {
+      "type": "addon",
+      "id": "stremio-addon-sid-vod-playlist",
+      "name": "SID VOD Playlist",
+      "poster": "https://via.placeholder.com/150x200?text=SID+VOD+Playlist",
+      "description": "Personal M3U playlist viewer - add links via browser at addon root URL",
+      "releaseInfo": "v1.0.6",
+      "genre": [
+        "Stremio",
+        "Addon"
+      ],
+      "links": [
+        {
+          "name": "View",
+          "url": "https://stremio-addons.net/addons/sid-vod-playlist"
+        },
+        {
+          "name": "JSON",
+          "url": "https://stremio-addons.net/addons/sid-vod-playlist.json"
+        }
+      ]
+    }
+  ]
+}
