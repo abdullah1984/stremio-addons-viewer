@@ -1,27 +1,125 @@
 {
-  "id": "stremio.addons.explorer",
+  "name": "Stremio Addons Repository",
   "version": "1.0.0",
-  "name": "Stremio Addons Explorer",
-  "description": "قائمة شاملة من جميع إضافات Stremio المتاحة - A comprehensive list of all available Stremio addons",
-  "logo": "https://raw.githubusercontent.com/USERNAME/stremio-addons-viewer/main/client/public/logo.png",
-  "resources": [
+  "scrapers": [
     {
-      "name": "catalog",
-      "types": ["addon"],
-      "idPrefixes": ["stremio-addon"]
-    }
-  ],
-  "catalogs": [
+      "id": "torrentio",
+      "name": "Torrentio",
+      "description": "Provides torrent streams from scraped torrent providers",
+      "version": "0.0.15",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/torrentio.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "logo": "https://raw.githubusercontent.com/Stremio-Community/stremio-addons-list/main/addons/torrentio.png",
+      "contentLanguage": ["en"]
+    },
     {
-      "type": "addon",
-      "id": "stremio-addons",
-      "name": "Stremio Addons",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "id": "comet",
+      "name": "Comet | ElfHosted",
+      "description": "Stremio's fastest torrent/debrid search add-on",
+      "version": "2.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/comet.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "mediafusion",
+      "name": "MediaFusion | ElfHosted",
+      "description": "Universal Stremio Add-on for Movies, Series, Live TV & Sports Events",
+      "version": "4.3.35",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/mediafusion.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "jackett",
+      "name": "Jackett",
+      "description": "Torrent search add-on using Jackett",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/jackett.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "opensubtitles",
+      "name": "OpenSubtitles",
+      "description": "Subtitles from OpenSubtitles",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/opensubtitles.js",
+      "enabled": true,
+      "formats": ["srt", "vtt"],
+      "contentLanguage": ["en", "ar", "fr", "es"]
+    },
+    {
+      "id": "kitsu",
+      "name": "Kitsu",
+      "description": "Anime streams from Kitsu",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["tv"],
+      "filename": "providers/kitsu.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en", "ja"]
+    },
+    {
+      "id": "flixhq",
+      "name": "FlixHQ",
+      "description": "Movies and TV shows from FlixHQ",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/flixhq.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "tmdb",
+      "name": "TMDB",
+      "description": "Movie and TV information from TMDB",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/tmdb.js",
+      "enabled": true,
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "imdb",
+      "name": "IMDb",
+      "description": "Movie and TV information from IMDb",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/imdb.js",
+      "enabled": true,
+      "contentLanguage": ["en"]
+    },
+    {
+      "id": "rarbg",
+      "name": "RARBG",
+      "description": "Torrent streams from RARBG",
+      "version": "1.0.0",
+      "author": "Stremio Community",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/rarbg.js",
+      "enabled": true,
+      "formats": ["mkv", "mp4"],
+      "contentLanguage": ["en"]
     }
   ]
 }
