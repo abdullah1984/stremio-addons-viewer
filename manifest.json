@@ -1,0 +1,27 @@
+{
+  "id": "stremio.addons.explorer",
+  "version": "1.0.0",
+  "name": "Stremio Addons Explorer",
+  "description": "قائمة شاملة من جميع إضافات Stremio المتاحة - A comprehensive list of all available Stremio addons",
+  "logo": "https://raw.githubusercontent.com/USERNAME/stremio-addons-viewer/main/client/public/logo.png",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": ["addon"],
+      "idPrefixes": ["stremio-addon"]
+    }
+  ],
+  "catalogs": [
+    {
+      "type": "addon",
+      "id": "stremio-addons",
+      "name": "Stremio Addons",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ]
+}
